@@ -18,6 +18,5 @@ We need to create an account inside the NYT Developer portal and generate an api
 
 https://api.nytimes.com/svc/archive/v1/2019/1.json?api-key=yourkey
 
-enter your key at the 'yourkey' section.
 
 You can also sort the news issues by year. The Archieve feature of NYT gives us the access of news form 1851.
