@@ -1,5 +1,5 @@
 # ScrappingWebPages
-How to scrape web pages using BeautifulSoup
+How to scrape web pages using BeautifulSoup?
 
 This is a beginners tutorial on how to scrape webpages.
 Scraping is an important asset if you are into Data Science as more on cases we doesnt have access to dataset and we need to scrape our way through.
